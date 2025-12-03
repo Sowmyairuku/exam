@@ -17,4 +17,4 @@ spec:
           image: sowmya959/sample:kubeimage
           ports:
             - containerPort: 5000
-    type: NodePort
+    
